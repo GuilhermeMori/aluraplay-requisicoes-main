@@ -1,0 +1,15 @@
+{
+  "name": "aluraplay-requisicoes-main",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"> <img src=\"https://imgur.com/J3hD21O.png\" alt=\"Javascript: criando requisições\"> </p>",
+  "main": "index.js",
+  "server": "json-server --watch ./src/utils/server.json",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
