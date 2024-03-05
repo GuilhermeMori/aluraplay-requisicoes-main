@@ -90,6 +90,13 @@
       "url": "https://www.youtube.com/embed/412nsNqL8YE",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 13
+    },
+    {
+      "id": "bebc",
+      "titulo": "O que é Node.js?",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/8VSTrZY8vwI",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
     }
   ]
 }
